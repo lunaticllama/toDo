@@ -1,12 +1,20 @@
 //
 //  AppDelegate.swift
-//  toDo v.1
+//  toDo
 //
 //  Created by Philip Taylor on 3/5/20.
 //  Copyright © 2020 Philip Taylor. All rights reserved.
 //
 
 import UIKit
+
+// Set time and battery to be white instead of black
+extension UINavigationController {
+    
+    open override var preferredStatusBarStyle: UIStatusBarStyle {
+               return .lightContent
+           }
+}
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

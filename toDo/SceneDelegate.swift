@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  toDo v.1
+//  toDo
 //
 //  Created by Philip Taylor on 3/5/20.
 //  Copyright © 2020 Philip Taylor. All rights reserved.

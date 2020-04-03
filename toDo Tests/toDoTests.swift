@@ -1,15 +1,15 @@
 //
-//  toDo_v_1Tests.swift
-//  toDo v.1Tests
+//  toDoTests.swift
+//  toDoTests
 //
 //  Created by Philip Taylor on 3/5/20.
 //  Copyright © 2020 Philip Taylor. All rights reserved.
 //
 
 import XCTest
-@testable import toDo_v_1
+@testable import toDo
 
-class toDo_v_1Tests: XCTestCase {
+class toDoTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
